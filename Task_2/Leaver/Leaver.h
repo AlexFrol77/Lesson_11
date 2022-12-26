@@ -12,7 +12,7 @@ namespace Leaver {
 	public:
 		LEAVER_API Leaver();
 
-		void Bay();
+		void Leave();
 		std::string Get_Name();
 
 	private:
